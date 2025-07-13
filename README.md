@@ -1,4 +1,4 @@
-<h1 align="center"> Curso Discover RocketSeat </h1>
+<h1 align="center"> Primeiro Projet Spring Boot </h1>
 
 <p align="center">
 Fiz esse Curso que foi Disponibilizado Gratuitamente pela RocketSeat.
